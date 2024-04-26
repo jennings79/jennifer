@@ -1,0 +1,480 @@
+.pay .vector {
+  margin-bottom: 16.5px;
+  align-self: flex-start;
+  width: 32.1px;
+  height: 26.5px;
+}
+.pay .contact {
+  margin: 0 22px 16px 22px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 30px;
+  color: #000000;
+}
+.pay .email-or-phone-number {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #504E4E;
+}
+.pay .container-23 {
+  border: 1px solid #000000;
+  position: relative;
+  margin: 0 22px 55px 22px;
+  align-self: flex-start;
+  padding: 21px 23px 17px 23px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.pay .delivery {
+  margin: 0 22px 7px 22px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 30px;
+  color: #000000;
+}
+.pay .country-region {
+  margin-bottom: 14px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #504E4E;
+}
+.pay .ghana {
+  margin: 0 3px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 24px;
+  color: #000000;
+}
+.pay .container-2 {
+  border: 1px solid #000000;
+  position: relative;
+  margin: 0 22px 13px 22px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  padding: 13px 0 9px 17px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.pay .first-name {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #504E4E;
+}
+.pay .container-18 {
+  border: 1px solid #000000;
+  position: relative;
+  margin-right: 18px;
+  padding: 25px 18px 18px 18px;
+  width: 434px;
+  box-sizing: border-box;
+}
+.pay .last-name {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #504E4E;
+}
+.pay .container-4 {
+  border: 1px solid #000000;
+  position: relative;
+  padding: 25px 25px 18px 25px;
+  width: 438px;
+  box-sizing: border-box;
+}
+.pay .container-3 {
+  margin: 0 22px 16px 22px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.pay .address {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #504E4E;
+}
+.pay .container-14 {
+  border: 1px solid #000000;
+  position: relative;
+  margin: 0 22px 16px 22px;
+  align-self: flex-start;
+  padding: 24px 23px 16px 23px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.pay .city {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #504E4E;
+}
+.pay .container-11 {
+  border: 1px solid #000000;
+  position: relative;
+  padding: 23px 24px 17px 24px;
+  width: 294px;
+  box-sizing: border-box;
+}
+.pay .state {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #504E4E;
+}
+.pay .container-16 {
+  border: 1px solid #000000;
+  position: relative;
+  padding: 23px 11px 17px 11px;
+  width: 292px;
+  box-sizing: border-box;
+}
+.pay .zip-code {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #504E4E;
+}
+.pay .container-8 {
+  border: 1px solid #000000;
+  position: relative;
+  padding: 23px 12px 17px 12px;
+  width: 286px;
+  box-sizing: border-box;
+}
+.pay .container-20 {
+  margin: 0 22px 48px 22px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  column-gap: 9px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.pay .payment-method {
+  margin: 0 22px 6px 22px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 30px;
+  color: #000000;
+}
+.pay .credit-card {
+  margin: 7px 12px 9px 0;
+  display: inline-block;
+  width: 522px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: rgba(0, 0, 0, 0.6);
+}
+.pay .image-removebg-preview-11 {
+  background: url('../assets/images/imageRemovebgPreview11.png') 50% / cover no-repeat;
+  margin-top: 6px;
+  width: 61px;
+  height: 34px;
+}
+.pay .visa-1 {
+  background: url('../assets/images/visa1.png') 50% / cover no-repeat;
+  margin: 8px 0 3px 0;
+  width: 52px;
+  height: 29px;
+}
+.pay .image-removebg-preview-31 {
+  background: url('../assets/images/imageRemovebgPreview31.png') 50% / cover no-repeat;
+  position: relative;
+  width: 53px;
+  height: 40px;
+}
+.pay .container-9 {
+  display: flex;
+  flex-direction: row;
+  column-gap: 16px;
+  width: 198px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.pay .image-removebg-preview-21 {
+  background: url('../assets/images/imageRemovebgPreview21.png') 50% / cover no-repeat;
+  position: absolute;
+  right: 8px;
+  bottom: 11px;
+  width: 81px;
+  height: 45px;
+}
+.pay .container-7 {
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 8px 28px 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 23px 82px 13px 58px;
+  width: 872px;
+  box-sizing: border-box;
+}
+.pay .card-number {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: rgba(0, 0, 0, 0.6);
+}
+.pay .container-17 {
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 38px;
+  padding: 33px 31px 19px 31px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.pay .expiration-date-mm-yy {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: rgba(0, 0, 0, 0.6);
+}
+.pay .container-13 {
+  background: #FFFFFF;
+  position: relative;
+  align-self: flex-start;
+  padding: 30px 25px 22px 25px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.pay .container-22 {
+  background: #D9D9D9;
+  position: relative;
+  margin: 0 22px 41px 22px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  padding: 8px 0 82px 0;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.pay .order-summary {
+  margin: 0 22px 10px 22px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 30px;
+  color: #000000;
+}
+.pay .rectangle-35 {
+  background: url('../assets/images/rectangle35.png') 50% / cover no-repeat;
+  margin-right: 23px;
+  width: 127px;
+  height: 110px;
+}
+.pay .beats-studio-3 {
+  margin: 47px 0 27px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 30px;
+  color: #000000;
+}
+.pay .container-5 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.pay .container-1 {
+  margin: 53px 0 28px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  color: #000000;
+}
+.pay .container-12 {
+  margin: 0 22px 18px 22px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 954.3px;
+  box-sizing: border-box;
+}
+.pay .discount-code-or-gift-card {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.6);
+}
+.pay .container-10 {
+  border: 1px solid #787676;
+  position: relative;
+  margin: 1px 23px 0 0;
+  padding: 11px 23px 10px 23px;
+  width: 620px;
+  box-sizing: border-box;
+}
+.pay .apply {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.pay .container-21 {
+  border-radius: 10px;
+  background: #D9D9D9;
+  position: relative;
+  margin-bottom: 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 12px 15.8px 9px 14px;
+  box-sizing: border-box;
+}
+.pay .container-6 {
+  margin: 0 65px 16px 65px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.pay .subtotal {
+  margin: 3px 12px 2px 0;
+  display: inline-block;
+  width: 570px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.pay .container-2 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  color: #000000;
+}
+.pay .container-1 {
+  margin: 0 77px 7px 77px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 678.3px;
+  box-sizing: border-box;
+}
+.pay .total {
+  margin: 10px 12px 0 0;
+  display: inline-block;
+  width: 571px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 20px;
+  color: #000000;
+}
+.pay .container-3 {
+  margin-bottom: 5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 24px;
+  color: #000000;
+}
+.pay .container-15 {
+  margin: 0 76px 31px 76px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 683.2px;
+  box-sizing: border-box;
+}
+.pay .pay-now {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.pay .container-19 {
+  background: #180364;
+  position: relative;
+  margin-left: 46.7px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: center;
+  padding: 10px 16.9px 5px 0;
+  width: 807px;
+  box-sizing: border-box;
+}
+.pay .security-code {
+  margin-right: 12px;
+  width: 344px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: rgba(0, 0, 0, 0.6);
+}
+.pay .container {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: rgba(0, 0, 0, 0.6);
+}
+.pay .container {
+  background: #FFFFFF;
+  position: absolute;
+  right: 179px;
+  bottom: 516px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 30px 40.9px 22px 27px;
+  width: 434px;
+  box-sizing: border-box;
+}
+.pay {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  padding: 15px 0 17px 15px;
+  width: 1109px;
+  box-sizing: border-box;
+}

@@ -1,0 +1,1581 @@
+.home .vector {
+  margin: 0 12.6px 1.9px 0;
+  width: 32.1px;
+  height: 28.6px;
+}
+.home .soundfix {
+  overflow-wrap: break-word;
+  font-family: 'Kanit';
+  font-weight: 800;
+  font-size: 20px;
+  color: #000000;
+}
+.home .soundfix-1 {
+  margin-top: 0.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.home .container-4 {
+  margin: 0 12.3px 44px 12.3px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .rectangle-4 {
+  background: #3C07FF;
+  width: 8px;
+  height: 26px;
+}
+.home .home-3 {
+  background: url('../assets/images/home.png') 50% / contain no-repeat;
+  margin: 4px 0;
+  width: 22px;
+  height: 18px;
+}
+.home .home-1 {
+  overflow-wrap: break-word;
+  font-family: 'Corbel', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 15px;
+  color: #000000;
+}
+.home .home-2 {
+  margin: 4px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.home .container-6 {
+  margin-bottom: 21px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  column-gap: 18px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .compass {
+  background: url('../assets/images/compass.png') 50% / contain no-repeat;
+  margin-right: 17px;
+  width: 19px;
+  height: 19px;
+}
+.home .explore-1 {
+  overflow-wrap: break-word;
+  font-family: 'Corbel', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 15px;
+  color: #000000;
+}
+.home .explore {
+  margin-top: 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.home .container-9 {
+  margin: 0 133.2px 27px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .love {
+  background: url('../assets/images/love.png') 50% / contain no-repeat;
+  margin-right: 13px;
+  width: 20px;
+  height: 20px;
+}
+.home .saved {
+  overflow-wrap: break-word;
+  font-family: 'Corbel', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 15px;
+  color: #000000;
+}
+.home .saved-1 {
+  margin-top: 2px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.home .container-21 {
+  margin: 0 138.7px 28px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .shopping-cart {
+  background: url('../assets/images/shoppingCart.png') 50% / contain no-repeat;
+  margin-right: 12px;
+  width: 21px;
+  height: 21px;
+}
+.home .cart {
+  overflow-wrap: break-word;
+  font-family: 'Corbel', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 15px;
+  color: #000000;
+}
+.home .cart-1 {
+  margin: 2px 0 1px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.home .container-27 {
+  margin: 0 149.5px 35px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .user {
+  background: url('../assets/images/user.png') 50% / contain no-repeat;
+  margin: 0 12px 1px 0;
+  width: 18px;
+  height: 18px;
+}
+.home .profile {
+  overflow-wrap: break-word;
+  font-family: 'Corbel', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 15px;
+  color: #000000;
+}
+.home .profile-1 {
+  margin-top: 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.home .container-10 {
+  margin: 0 136.2px 40px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .time-machine {
+  background: url('../assets/images/timeMachine.png') 50% / contain no-repeat;
+  margin-right: 11px;
+  width: 21px;
+  height: 18px;
+}
+.home .purchase-history {
+  overflow-wrap: break-word;
+  font-family: 'Corbel', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 15px;
+  color: #000000;
+}
+.home .purchase-history-1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.home .container-43 {
+  margin: 0 73.1px 41px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .contact {
+  background: url('../assets/images/contact.png') 50% / contain no-repeat;
+  margin: 0 11px 1px 0;
+  width: 19px;
+  height: 19px;
+}
+.home .contact-us {
+  overflow-wrap: break-word;
+  font-family: 'Corbel', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 15px;
+  color: #000000;
+}
+.home .contact-us-1 {
+  margin-top: 2px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.home .container-18 {
+  margin: 0 111.8px 42px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .settings-2 {
+  background: url('../assets/images/settings.png') 50% / contain no-repeat;
+  margin-right: 11px;
+  width: 19px;
+  height: 19px;
+}
+.home .settings {
+  overflow-wrap: break-word;
+  font-family: 'Corbel', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 15px;
+  color: #000000;
+}
+.home .settings-1 {
+  margin-top: 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.home .container-34 {
+  margin: 0 128px 39px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .ellipse-2 {
+  border-radius: 15px;
+  background: #3C07FF;
+  width: 30px;
+  height: 30px;
+}
+.home .container-31 {
+  border-radius: 18px;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 2px 14px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 3px;
+  width: 36px;
+  height: 36px;
+  box-sizing: border-box;
+}
+.home .need-help {
+  overflow-wrap: break-word;
+  font-family: 'Corbel', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 16px;
+  color: #000000;
+}
+.home .need-help-1 {
+  margin: 0 3.8px 3.2px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.home .about-account-management-ordering-payment-refund-and-faq {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Corbel', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 15px;
+  color: #000000;
+}
+.home .about-account-management {
+  margin-bottom: 14.8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.home .customer-service {
+  overflow-wrap: break-word;
+  font-family: 'Corbel', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 15px;
+  color: #000000;
+}
+.home .customer-service-1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.home .container-30 {
+  border-radius: 10px;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 9.8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-end;
+  padding: 10px 17.5px 9px 14.5px;
+  box-sizing: border-box;
+}
+.home .multiply {
+  background: url('../assets/images/multiply.png') 50% / contain no-repeat;
+  transform: rotate(-45.759deg);
+  position: absolute;
+  left: 50%;
+  top: 9px;
+  translate: -50% 0;
+  width: 43.1px;
+  height: 43px;
+}
+.home .container-45 {
+  border-radius: 15px;
+  background: #D9D9D9;
+  position: relative;
+  margin: 0 23px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: flex-start;
+  padding: 13px 10.2px 19px 10.2px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .container-11 {
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 19px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 12.5px 0 20px 0;
+  width: 274px;
+  box-sizing: border-box;
+}
+.home .headphones {
+  overflow-wrap: break-word;
+  font-family: 'Cooper Black', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 24px;
+  color: #000000;
+}
+.home .headphones-1 {
+  margin: 0 0 1px 19.9px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.home .from-your-top-brands {
+  overflow-wrap: break-word;
+  font-family: 'Corbel', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 15px;
+  color: #000000;
+}
+.home .from-your-top-brands-1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.home .container-38 {
+  margin-top: 3px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.home .search {
+  background: url('../assets/images/search.png') 50% / contain no-repeat;
+  margin: 0 10px 1px 0;
+  width: 17px;
+  height: 17px;
+}
+.home .search-product {
+  overflow-wrap: break-word;
+  font-family: 'Corbel', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 15px;
+  color: #B1A6A6;
+}
+.home .search-products {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.home .container-39 {
+  border-radius: 10px;
+  background: #D9D9D9;
+  position: relative;
+  margin-right: 13px;
+  display: flex;
+  flex-direction: row;
+  padding: 18px 0 14px 8px;
+  width: 308px;
+  box-sizing: border-box;
+}
+.home .letter {
+  background: url('../assets/images/letter.png') 50% / contain no-repeat;
+  margin: 13px 14px 10px 0;
+  width: 27px;
+  height: 27px;
+}
+.home .notification {
+  background: url('../assets/images/notification.png') 50% / contain no-repeat;
+  margin: 13px 17px 12px 0;
+  width: 25px;
+  height: 25px;
+}
+.home .photo-avatar-of-user-profile {
+  background: url('../assets/images/photoAvatarOfUserProfile.png') 50% / contain no-repeat;
+  margin: 8px 0 10px 0;
+  width: 32px;
+  height: 32px;
+}
+.home .container-23 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.home .container-36 {
+  margin: 0 8px 13px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 863px;
+  box-sizing: border-box;
+}
+.home .headphone-1-removebg-preview-1 {
+  background: url('../assets/images/ellipse10.png') 50% / cover no-repeat;
+  margin: 6px 28px 7px 0;
+  width: 144px;
+  height: 144px;
+}
+.home .beats-studio-3-wireless-headphone {
+  overflow-wrap: break-word;
+  font-family: 'DejaVu Sans', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.home .beats-studio-3-wireless-headphone-1 {
+  margin: 0 0.3px 0.5px 0.3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.home .star-2 {
+  background: url('../assets/images/star1.png') 50% / contain no-repeat;
+  margin-right: 1.3px;
+  width: 13.8px;
+  height: 15.1px;
+}
+.home .star {
+  background: url('../assets/images/star1.png') 50% / contain no-repeat;
+  margin-right: 1.3px;
+  width: 13.8px;
+  height: 15.1px;
+}
+.home .star-1 {
+  background: url('../assets/images/star1.png') 50% / contain no-repeat;
+  margin-right: 1.3px;
+  width: 13.8px;
+  height: 15.1px;
+}
+.home .star-3 {
+  background: url('../assets/images/star1.png') 50% / contain no-repeat;
+  margin-right: 1.3px;
+  width: 13.8px;
+  height: 15.1px;
+}
+.home .star-4 {
+  background: url('../assets/images/star1.png') 50% / contain no-repeat;
+  width: 13.8px;
+  height: 15.1px;
+}
+.home .stars {
+  margin-right: 2px;
+  display: flex;
+  flex-direction: row;
+  width: 74px;
+  box-sizing: border-box;
+}
+.home .reviews {
+  overflow-wrap: break-word;
+  font-family: 'DejaVu Sans Mono', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 11px;
+  color: #000000;
+}
+.home .reviews-1 {
+  margin: 1.5px 0 0.5px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.home .container-15 {
+  margin: 0 4px 2.5px 4px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .ergonomic-ear-cups-with-on-ear-controls-up-to-22-hours-of-listening-time-apple-w-1-chip-class-1-wireless-bluetooth {
+  overflow-wrap: break-word;
+  font-family: 'DejaVu Sans', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 11px;
+  color: #000000;
+}
+.home .ergonomic-ear-cups-with-on-ear-controls-up-to-22-hours-of-listening-time-apple-w-1-chip-class-1-wireless-bluetooth-1 {
+  margin: 0 2px 6px 2px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.home .price-ghc-20050 {
+  overflow-wrap: break-word;
+  font-family: 'DejaVu Sans Mono', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 13px;
+  color: #3C07FF;
+}
+.home .price-ghc-200501 {
+  margin: 0 2px 6px 2px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.home .color {
+  overflow-wrap: break-word;
+  font-family: 'DejaVu Sans', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.home .color-1 {
+  margin-right: 11.7px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.home .ellipse-6 {
+  border-radius: 5.5px;
+  background: #DF1212;
+  margin-right: 3.7px;
+  width: 11px;
+  height: 11px;
+}
+.home .ellipse-4 {
+  border-radius: 5.5px;
+  background: #0CA61C;
+  margin-right: 3.7px;
+  width: 11px;
+  height: 11px;
+}
+.home .ellipse-3 {
+  border-radius: 5.5px;
+  background: #3C07FF;
+  margin-right: 3.7px;
+  width: 11px;
+  height: 11px;
+}
+.home .ellipse-5 {
+  border-radius: 5.5px;
+  background: #000000;
+  width: 11px;
+  height: 11px;
+}
+.home .group-1 {
+  margin-bottom: 3px;
+  display: flex;
+  flex-direction: row;
+  width: 55px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.home .container-42 {
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .love-1 {
+  background: url('../assets/images/love.png') 50% / contain no-repeat;
+  width: 20px;
+  height: 20px;
+}
+.home .container-12 {
+  border-radius: 5px;
+  border: 1px solid #3C07FF;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 3px 11px 3px 9px;
+  width: 40px;
+  height: 26px;
+  box-sizing: border-box;
+}
+.home .add-to-cart {
+  overflow-wrap: break-word;
+  font-family: 'DejaVu Sans', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 13px;
+  color: #3C07FF;
+}
+.home .add-to-cart-1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.home .container-3 {
+  border-radius: 5px;
+  border: 1px solid #3C07FF;
+  position: relative;
+  padding: 5px 14px 6px 14px;
+  width: 106px;
+  box-sizing: border-box;
+}
+.home .buy-now {
+  overflow-wrap: break-word;
+  font-family: 'DejaVu Sans', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 13px;
+  color: #FFFFFF;
+}
+.home .buy-now-1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.home .container-8 {
+  border-radius: 5px;
+  background: #3C07FF;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 5px 11.2px 6px 0;
+  width: 106px;
+  box-sizing: border-box;
+}
+.home .container-1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 343px;
+  box-sizing: border-box;
+}
+.home .container-52 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.home .container-46 {
+  box-shadow: -5px 7px 7px 0px rgba(0, 0, 0, 0.25);
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 11px;
+  display: flex;
+  flex-direction: row;
+  padding: 13px 28px 18px 8px;
+  box-sizing: border-box;
+}
+.home .summer-headphones-from-top-brands {
+  overflow-wrap: break-word;
+  font-family: 'Corbel', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 24px;
+  color: #0131AB;
+}
+.home .summer-headphones-from-top-brands-1 {
+  position: relative;
+  margin-bottom: 40px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.home .buy-it-now {
+  overflow-wrap: break-word;
+  font-family: 'CommercialPi BT', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 13px;
+  color: #000000;
+}
+.home .buy-it-now-1 {
+  margin: 13px 16.1px 12px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.home .right-arrow {
+  background: url('../assets/images/rightArrow1.png') 50% / contain no-repeat;
+  width: 25px;
+  height: 40px;
+}
+.home .container-2 {
+  margin: 0 7px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .headphone-7-removebg-preview-1 {
+  background: url('../assets/images/headphone7RemovebgPreview1.png') 50% / cover no-repeat;
+  position: absolute;
+  right: 7px;
+  bottom: 7px;
+  width: 94px;
+  height: 94px;
+}
+.home .container-32 {
+  border-radius: 25px;
+  background: #97B5F1;
+  position: relative;
+  margin-bottom: 28px;
+  display: flex;
+  flex-direction: column;
+  padding: 22px 0 2px 11px;
+  width: 309px;
+  box-sizing: border-box;
+}
+.home .container-40 {
+  margin-bottom: 50px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .headphone-2-removebg-preview-1 {
+  background: url('../assets/images/ellipse7.png') 50% / cover no-repeat;
+  margin: 0 0 14px 2px;
+  align-self: center;
+  width: 96px;
+  height: 102px;
+}
+.home .original-beats-solo-pro {
+  overflow-wrap: break-word;
+  font-family: 'Acme';
+  font-weight: 400;
+  font-size: 11px;
+  color: #000000;
+}
+.home .original-beats-solo-pro-1 {
+  margin: 0 2px 3px 2px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.home .price-ghc-150001 {
+  overflow-wrap: break-word;
+  font-family: 'B612';
+  font-weight: 400;
+  font-size: 8px;
+  color: #000000;
+}
+.home .price-ghc-150004 {
+  margin: 0 2px 4px 2px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.home .star-6 {
+  background: url('../assets/images/star.png') 50% / contain no-repeat;
+  margin: 1px 3px 1px 0;
+  width: 8px;
+  height: 8px;
+}
+.home .container-1 {
+  overflow-wrap: break-word;
+  font-family: 'Acme';
+  font-weight: 400;
+  font-size: 8px;
+  color: #3C07FF;
+}
+.home .container-2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.home .container-26 {
+  margin: 3px 0 4px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.home .add-1 {
+  background: url('../assets/images/add1.png') 50% / contain no-repeat;
+  width: 17px;
+  height: 17px;
+}
+.home .container-33 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 128px;
+  box-sizing: border-box;
+}
+.home .product-1 {
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 25px;
+  display: flex;
+  flex-direction: column;
+  padding: 10px 7px 5px 5px;
+  box-sizing: border-box;
+}
+.home .headphone-4-removebg-preview-1 {
+  background: url('../assets/images/ellipse8.png') 50% / cover no-repeat;
+  margin: 0 12px 11px 11px;
+  width: 105px;
+  height: 105px;
+}
+.home .beats-studio-3-bluetooth {
+  overflow-wrap: break-word;
+  font-family: 'Acme';
+  font-weight: 400;
+  font-size: 11px;
+  color: #000000;
+}
+.home .beats-studio-3-bluetooth-1 {
+  margin: 0 1px 3px 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.home .price-ghc-150006 {
+  overflow-wrap: break-word;
+  font-family: 'B612';
+  font-weight: 400;
+  font-size: 8px;
+  color: #000000;
+}
+.home .price-ghc-150002 {
+  margin: 0 1px 4px 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.home .star-7 {
+  background: url('../assets/images/star.png') 50% / contain no-repeat;
+  margin: 1px 3px 1px 0;
+  width: 8px;
+  height: 8px;
+}
+.home .container-6 {
+  overflow-wrap: break-word;
+  font-family: 'Acme';
+  font-weight: 400;
+  font-size: 8px;
+  color: #3C07FF;
+}
+.home .container-3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.home .container-51 {
+  margin: 3px 0 4px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.home .add-2 {
+  background: url('../assets/images/add1.png') 50% / contain no-repeat;
+  width: 17px;
+  height: 17px;
+}
+.home .container-13 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 128px;
+  box-sizing: border-box;
+}
+.home .product-2 {
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 22px;
+  display: flex;
+  flex-direction: column;
+  padding: 10px 6px 5px 6px;
+  box-sizing: border-box;
+}
+.home .ei-1710078132463-removebg-preview-11 {
+  background: url('../assets/images/ei1710078132463RemovebgPreview1.png') 50% / cover no-repeat;
+  margin: 0 0 13px 6px;
+  align-self: center;
+  width: 76px;
+  height: 102px;
+}
+.home .beats-solo-3-wireless-1 {
+  overflow-wrap: break-word;
+  font-family: 'Acme';
+  font-weight: 400;
+  font-size: 11px;
+  color: #000000;
+}
+.home .beats-solo-3-wireless-2 {
+  margin: 0 1px 4px 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.home .price-ghc-150007 {
+  overflow-wrap: break-word;
+  font-family: 'B612';
+  font-weight: 400;
+  font-size: 8px;
+  color: #000000;
+}
+.home .price-ghc-150003 {
+  margin: 0 1px 4px 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.home .star-8 {
+  background: url('../assets/images/star.png') 50% / contain no-repeat;
+  margin: 1px 3px 1px 0;
+  width: 8px;
+  height: 8px;
+}
+.home .container-7 {
+  overflow-wrap: break-word;
+  font-family: 'Acme';
+  font-weight: 400;
+  font-size: 8px;
+  color: #3C07FF;
+}
+.home .container-4 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.home .container-29 {
+  margin: 3px 0 4px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.home .add-3 {
+  background: url('../assets/images/add1.png') 50% / contain no-repeat;
+  width: 17px;
+  height: 17px;
+}
+.home .container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 128px;
+  box-sizing: border-box;
+}
+.home .product-31 {
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 11px;
+  display: flex;
+  flex-direction: column;
+  padding: 10px 6px 5px 6px;
+  box-sizing: border-box;
+}
+.home .ei-1710078132463-removebg-preview-1 {
+  background: url('../assets/images/ei1710078132463RemovebgPreview1.png') 50% / cover no-repeat;
+  margin: 0 0 13px 6px;
+  align-self: center;
+  width: 76px;
+  height: 102px;
+}
+.home .beats-solo-3-wireless-3 {
+  overflow-wrap: break-word;
+  font-family: 'Acme';
+  font-weight: 400;
+  font-size: 11px;
+  color: #000000;
+}
+.home .beats-solo-3-wireless {
+  margin: 0 1px 4px 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.home .price-ghc-150005 {
+  overflow-wrap: break-word;
+  font-family: 'B612';
+  font-weight: 400;
+  font-size: 8px;
+  color: #000000;
+}
+.home .price-ghc-15000 {
+  margin: 0 1px 4px 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.home .star-5 {
+  background: url('../assets/images/star.png') 50% / contain no-repeat;
+  margin: 1px 3px 1px 0;
+  width: 8px;
+  height: 8px;
+}
+.home .container-5 {
+  overflow-wrap: break-word;
+  font-family: 'Acme';
+  font-weight: 400;
+  font-size: 8px;
+  color: #3C07FF;
+}
+.home .container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.home .container-24 {
+  margin: 3px 0 4px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.home .add {
+  background: url('../assets/images/add1.png') 50% / contain no-repeat;
+  width: 17px;
+  height: 17px;
+}
+.home .container-48 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 128px;
+  box-sizing: border-box;
+}
+.home .product-3 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.home .rectangle-16 {
+  filter: blur(10px);
+  background: #FFFFFF;
+  position: absolute;
+  right: 19px;
+  bottom: 0px;
+  width: 81px;
+  height: 179px;
+}
+.home .ellipse-12 {
+  box-shadow: -5px 4px 7px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 16.5px;
+  background: #FFFFFF;
+  position: absolute;
+  left: 47px;
+  bottom: 64px;
+  width: 33px;
+  height: 33px;
+}
+.home .forward-1 {
+  background: url('../assets/images/forward.png') 50% / contain no-repeat;
+  position: absolute;
+  left: 46px;
+  bottom: 61px;
+  width: 35px;
+  height: 35px;
+}
+.home .product-4 {
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 10px 6px 5px 6px;
+  box-sizing: border-box;
+}
+.home .container-16 {
+  margin: 0 2px 55px 2px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .explore-popular-categories {
+  overflow-wrap: break-word;
+  font-family: 'Actor';
+  font-weight: 400;
+  font-size: 24px;
+  color: #3C07FF;
+}
+.home .explore-popular-categories-1 {
+  margin-right: 22px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.home .see-all {
+  overflow-wrap: break-word;
+  font-family: 'Acme';
+  font-weight: 400;
+  font-size: 15px;
+  color: #000000;
+}
+.home .see-all-1 {
+  margin: 10px 0px 0 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.home .container-41 {
+  margin: 0 2px 24px 2px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .vector-1 {
+  width: 26px;
+  height: 32px;
+}
+.home .iconapple {
+  margin: 11px 8.3px 11px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 26px;
+  height: 32px;
+  box-sizing: border-box;
+}
+.home .vector-2 {
+  width: 42px;
+  height: 6.4px;
+}
+.home .iconsamsung {
+  margin: 26.9px 9.2px 20.7px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 42px;
+  height: 6.4px;
+  box-sizing: border-box;
+}
+.home .vector-3 {
+  width: 29.2px;
+  height: 22px;
+}
+.home .iconhuawei {
+  margin: 17px 8.6px 15px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 29.2px;
+  height: 22px;
+  box-sizing: border-box;
+}
+.home .line-1 {
+  background: #000000;
+  margin: 0 11px 1px 0;
+  width: 2px;
+  height: 53px;
+}
+.home .top-popular-brands {
+  overflow-wrap: break-word;
+  font-family: 'Corbel', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 15px;
+  color: #000000;
+}
+.home .top-popular-brands-1 {
+  margin: 0 8px 10px 8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.home .orders-reviews {
+  overflow-wrap: break-word;
+  font-family: 'Corbel', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 15px;
+  color: #000000;
+}
+.home .orders-reviews-1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.home .container-50 {
+  margin-top: 8px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.home .container-22 {
+  box-shadow: -5px 5px 7px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  padding: 28px 26.7px 32px 10.7px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .container-44 {
+  margin: 24px 0 26px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.home .daily-deals {
+  margin: 1px 9px 0 0;
+  width: 154px;
+  overflow-wrap: break-word;
+  font-family: 'DejaVu Sans', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 15px;
+  color: #000000;
+}
+.daily-deals-sub50 {
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 1.333;
+  color: #3C07FF;
+}
+.daily-deals-sub49 {
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 1.333;
+}
+.daily-deals {
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 1.333;
+  color: #3C07FF;
+}
+.home .view-all {
+  position: relative;
+  margin-bottom: 3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 13px;
+  color: #000000;
+}
+.home .container-20 {
+  margin: 0 23.7px 14px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 210.2px;
+  box-sizing: border-box;
+}
+.home .ellipse-7 {
+  border-radius: 26px;
+  background: url('../assets/images/ellipse7.png') 50% / cover no-repeat;
+  margin-right: 8px;
+  width: 52px;
+  height: 52px;
+}
+.home .beats-studio-white-headset {
+  margin-bottom: 7px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 11px;
+  color: #000000;
+}
+.home .reviews-584-orders {
+  margin: 0 3px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  color: #1E1E1E;
+}
+.home .container-5 {
+  margin: 11px 3.5px 9px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.home .price-150 {
+  margin: 26px 0 14px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 10px;
+  color: #000000;
+}
+.home .container-47 {
+  margin: 0 5px 16px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .ellipse-8 {
+  border-radius: 26px;
+  background: url('../assets/images/ellipse8.png') 50% / cover no-repeat;
+  margin-right: 8px;
+  width: 52px;
+  height: 52px;
+}
+.home .beats-studio-white-headset-1 {
+  margin-bottom: 7px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 11px;
+  color: #000000;
+}
+.home .reviews-384-orders {
+  margin: 0 3px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  color: #1E1E1E;
+}
+.home .container-17 {
+  margin: 13px 3.5px 7px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.home .price-100 {
+  margin: 28px 0 12px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 10px;
+  color: #000000;
+}
+.home .container-28 {
+  margin: 0 4.6px 19px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .ellipse-9 {
+  margin-right: 8px;
+  width: 52px;
+  height: 53px;
+}
+.home .beats-studio-brown-headset {
+  margin-bottom: 7px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 11px;
+  color: #000000;
+}
+.home .reviews-574-orders {
+  margin: 0 3px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  color: #1E1E1E;
+}
+.home .container-14 {
+  margin: 15px 1.1px 6px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.home .price-160 {
+  margin: 30px 0 11px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 10px;
+  color: #000000;
+}
+.home .container-7 {
+  margin: 0 4.8px 16px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .ellipse-10 {
+  border-radius: 26px;
+  background: url('../assets/images/ellipse10.png') 50% / cover no-repeat;
+  margin-right: 8px;
+  width: 52px;
+  height: 52px;
+}
+.home .beats-studio-red-headset {
+  margin-bottom: 4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 11px;
+  color: #000000;
+}
+.home .reviews-589-orders-1 {
+  margin: 0 12.8px 0 3px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  color: #1E1E1E;
+}
+.home .container-19 {
+  margin: 13px 14.3px 10px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.home .price-200 {
+  margin: 28px 0 12px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 10px;
+  color: #000000;
+}
+.home .container-25 {
+  margin: 0 3.2px 18px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .ellipse-11 {
+  border-radius: 26px;
+  background: url('../assets/images/rectangle35.png') 50% / cover no-repeat;
+  width: 52px;
+  height: 52px;
+}
+.home .beats-studio-black-headset {
+  margin-bottom: 4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 11px;
+  color: #000000;
+}
+.home .reviews-589-orders {
+  margin: 0 13.3px 0 11px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  color: #1E1E1E;
+}
+.home .container-49 {
+  margin: 14px 18.8px 9px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.home .price-1501 {
+  margin: 17px 0 23px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 10px;
+  color: #000000;
+}
+.home .container-35 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .forward {
+  background: url('../assets/images/forward1.png') 50% / contain no-repeat;
+  position: absolute;
+  top: 16px;
+  right: 20px;
+  width: 33px;
+  height: 33px;
+}
+.home .container-37 {
+  border-radius: 20px;
+  background: #D9D9D9;
+  position: absolute;
+  right: 40px;
+  bottom: 23px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 23px 7.1px 23px 12px;
+  box-sizing: border-box;
+}
+.home {
+  background: rgba(242, 239, 239, 0.98);
+  display: flex;
+  flex-direction: row;
+  padding-right: 20px;
+  width: 1184px;
+  box-sizing: border-box;
+}

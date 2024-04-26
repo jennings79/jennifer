@@ -1,0 +1,166 @@
+.add-to-cart .vector {
+  margin-bottom: 35.8px;
+  align-self: flex-start;
+  width: 32.1px;
+  height: 26.5px;
+}
+.add-to-cart .beats-studio-3 {
+  margin: 0 22px 13px 22px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 50px;
+  color: #3C07FF;
+}
+.add-to-cart .wireless-beats-studio-with-noise-cancelling {
+  position: relative;
+  margin: 0 0 67px 19px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  color: #000000;
+}
+.add-to-cart .buy {
+  margin: 0 0 1px 4.1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 28px;
+  color: #FFFFFF;
+}
+.add-to-cart .container {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.add-to-cart .container-1 {
+  border-radius: 15px;
+  background: #13034B;
+  position: relative;
+  margin: 0 35px 23px 35px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: flex-start;
+  padding: 7px 0 6px 0;
+  width: 150px;
+  box-sizing: border-box;
+}
+.add-to-cart .color {
+  margin: 0 39px 9px 39px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 20px;
+  color: #000000;
+}
+.add-to-cart .black {
+  margin: 4px 11px 4px 0;
+  display: inline-block;
+  width: 285px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #1E1E1E;
+}
+.add-to-cart .drop-down {
+  background: url('../assets/images/dropDown.png') 50% / contain no-repeat;
+  width: 30px;
+  height: 30px;
+}
+.add-to-cart .container-2 {
+  border: 1px solid #000000;
+  position: relative;
+  margin: 0 20px 22px 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  padding: 19px 12px 13px 20px;
+  width: 358px;
+  box-sizing: border-box;
+}
+.add-to-cart .add-to-cart-1 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 28px;
+  color: #FFFFFF;
+}
+.add-to-cart .container {
+  border-radius: 25px;
+  background: #180364;
+  position: relative;
+  margin: 0 17px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  padding: 20px 8px 19px 0;
+  width: 359px;
+  box-sizing: border-box;
+}
+.add-to-cart .star-1 {
+  background: url('../assets/images/star1.png') 50% / contain no-repeat;
+  width: 19.8px;
+  height: 28.6px;
+}
+.add-to-cart .star {
+  background: url('../assets/images/star1.png') 50% / contain no-repeat;
+  width: 19.8px;
+  height: 28.6px;
+}
+.add-to-cart .star-2 {
+  background: url('../assets/images/star1.png') 50% / contain no-repeat;
+  width: 19.8px;
+  height: 28.6px;
+}
+.add-to-cart .star-3 {
+  background: url('../assets/images/star1.png') 50% / contain no-repeat;
+  width: 19.8px;
+  height: 28.6px;
+}
+.add-to-cart .star-4 {
+  background: url('../assets/images/star1.png') 50% / contain no-repeat;
+  width: 19.8px;
+  height: 28.6px;
+}
+.add-to-cart .stars {
+  position: absolute;
+  left: 22px;
+  top: 161.7px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 1.8px;
+  box-sizing: border-box;
+}
+.add-to-cart .container-3 {
+  position: relative;
+  margin: 16.7px 16.9px 96px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.add-to-cart .headphone-5-removebg-preview-1 {
+  background: url('../assets/images/rectangle35.png') 50% / cover no-repeat;
+  width: 768px;
+  height: 768px;
+}
+.add-to-cart {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  padding: 0 0 66px 18px;
+  width: 1184px;
+  box-sizing: border-box;
+}
